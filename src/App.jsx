@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Navbar from './Componenets/Navbar/Navbar'
+import Navbar from './Components/Navbar/Navbar'
 import Home from './Pages/Home/Home'
 import Video from './Pages/Video/Video'
 // import Sidebar from './Componenets/Sidebar/Sidebar'

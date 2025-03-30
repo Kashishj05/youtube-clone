@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './Home.css';
-import Sidebar from "../../Componenets/Sidebar/Sidebar";
-import Feed from "../../Componenets/feed/Feed";
+import Sidebar from "../../Components/Sidebar/Sidebar";
+import Feed from "../../Components/feed/Feed";
 
 const Home =({sidebar})=>{
 
